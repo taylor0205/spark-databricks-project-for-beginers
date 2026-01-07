@@ -1,0 +1,11 @@
+product_id,product_name,category,sub_category,brand,price,currency,is_active,created_date
+1,iPhone 14,Electronics,Mobile,Apple,999.99,USD,true,2023-01-01
+2,Galaxy S23,Electronics,Mobile,Samsung,899.99,USD,true,2023-02-10
+3,MacBook Pro,Electronics,Laptop,Apple,1999.00,USD,true,2022-11-15
+4,AirPods Pro,Electronics,Audio,Apple,249.99,USD,true,2022-09-01
+5,Nike Air Max,Clothing,Shoes,Nike,129.99,USD,true,2023-03-20
+6,Adidas Ultraboost,Clothing,Shoes,Adidas,149.99,USD,true,2023-04-01
+7,Uniqlo T-Shirt,Clothing,Top,Uniqlo,19.99,USD,true,2023-05-12
+8,Sony WH-1000XM5,Electronics,Audio,Sony,399.99,USD,true,2023-06-01
+9,Dell XPS 13,Electronics,Laptop,Dell,1399.99,USD,true,2022-12-05
+10,Logitech MX Master 3,Electronics,Accessory,Logitech,99.99,USD,true,2023-07-18
